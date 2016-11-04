@@ -1,6 +1,6 @@
 var expect = chai.expect;
 
-describe('advancedSearchForm', function() {
+describe('AdvancedSearchForm', function() {
 
   var aSF;
   var testOptions = {
